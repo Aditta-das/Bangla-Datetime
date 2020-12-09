@@ -2,7 +2,9 @@
 
 ## installation
 
+```
 pip install bd-datetime
+```
 
 ## Usage
 
